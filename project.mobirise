@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-21_1511",
-    "currentPage": "inicio.html",
+    "currentPage": "postgrados.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1926,7 +1926,7 @@
           },
           "title": "Maestría en Educación Básica",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Plan de Estudios</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"assets/files/plan%20de%20estudios_MEB.xlsx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Plan de Estudios</a>",
           "alias": "purity/components",
           "_tags": [
             "Tema"
