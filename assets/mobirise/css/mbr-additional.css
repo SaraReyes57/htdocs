@@ -13,10 +13,10 @@
 }
 #header1-0 H1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 36px;
+  font-size: 46px;
 }
 #header1-0 P {
-  font-size: 12px;
+  font-size: 14px;
 }
 #menu-1 .navbar-toggler {
   color: #000000;
@@ -29,13 +29,13 @@
   font-size: 25px;
 }
 #header4-2 B {
-  font-size: 16px;
+  font-size: 18px;
 }
 #header4-2 I {
-  font-size: 15px;
+  font-size: 16px;
 }
 #header4-2 P {
-  font-size: 15px;
+  font-size: 17px;
 }
 #msg-box4-5 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
@@ -48,44 +48,6 @@
   text-align: right;
 }
 #contacts1-v DIV {
-  text-align: right;
-}
-
-
-
-#menu-c .navbar-toggler {
-  color: #000000;
-}
-#menu-c .navbar-brand {
-  font-family: 'Montserrat', sans-serif;
-}
-#features1-d H4 {
-  font-family: 'Montserrat', sans-serif;
-}
-#features1-g H4 {
-  font-family: 'Montserrat', sans-serif;
-}
-#contacts1-e P {
-  text-align: right;
-}
-#contacts1-e DIV {
-  text-align: right;
-}
-
-
-#menu-k .navbar-toggler {
-  color: #000000;
-}
-#menu-k .navbar-brand {
-  font-family: 'Montserrat', sans-serif;
-}
-#features1-m H4 {
-  font-family: 'Montserrat', sans-serif;
-}
-#contacts1-l P {
-  text-align: right;
-}
-#contacts1-l DIV {
   text-align: right;
 }
 
@@ -141,5 +103,100 @@
   text-align: right;
 }
 #contacts1-v DIV {
+  text-align: right;
+}
+
+
+#menu-c .navbar-toggler {
+  color: #000000;
+}
+#menu-c .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+#features1-d H4 {
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts1-e P {
+  text-align: right;
+}
+#contacts1-e DIV {
+  text-align: right;
+}
+
+
+
+
+
+#menu-15 .navbar-toggler {
+  color: #000000;
+}
+#menu-15 .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+#content4-17 P {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+#content4-17 H4 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: right;
+}
+#content4-18 P {
+  text-align: center;
+  color: #3c3c3c;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+#content4-18 B {
+  color: #0275d8;
+}
+#content4-18 H4 {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts1-16 P {
+  text-align: right;
+}
+#contacts1-16 DIV {
+  text-align: right;
+}
+
+
+#menu-k .navbar-toggler {
+  color: #000000;
+}
+#menu-k .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+#features1-m H4 {
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts1-l P {
+  text-align: right;
+}
+#contacts1-l DIV {
+  text-align: right;
+}
+
+
+#menu-11 .navbar-toggler {
+  color: #000000;
+}
+#menu-11 .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box1-14 H2 {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+#msg-box1-14 .btn {
+  font-size: 15px;
+}
+#contacts1-12 P {
+  text-align: right;
+}
+#contacts1-12 DIV {
   text-align: right;
 }
