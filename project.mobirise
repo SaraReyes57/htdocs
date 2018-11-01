@@ -128,7 +128,7 @@
                 "overlayColor": "#000000"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sevac-2000x688.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": false,
@@ -152,11 +152,14 @@
           "_anchor": "slider-4",
           "_styles": {
             "H2": {
-              "text-align": "right",
+              "text-align": "center",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "24px",
+              "font-size": "20px",
               "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "15px"
             }
           }
         },
