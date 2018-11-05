@@ -2144,7 +2144,7 @@
           },
           "title": "D.2.2 Publica el Estado de Situación Financiera",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"assets/files/D.2.2. Publica el Estado de Situación Financier01112018.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3er trimestre<br></a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"assets/files/D.2.2. Publica el Estado de Situación Financier01112018.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1er trimestre</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"assets/files/D.2.2 (1).pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2do &nbsp;trimestre<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"assets/files/D.2.2. Publica el Estado de Situación Financier01112018.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3er trimestre<br></a> ",
           "alias": "purity/components",
           "_tags": [
             "Tema"
