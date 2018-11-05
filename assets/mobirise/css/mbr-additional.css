@@ -411,10 +411,25 @@
   text-align: right;
 }
 
+
+
+
 #menu-23 .navbar-toggler {
   color: #000000;
 }
 #menu-23 .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-28 H3 {
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-29 H3 {
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-2b H3 {
+  font-size: 25px;
   font-family: 'Montserrat', sans-serif;
 }
 #contacts1-24 P {
