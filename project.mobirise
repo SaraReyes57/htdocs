@@ -2230,7 +2230,7 @@
           },
           "title": "D.2.4\tPublica el Estado de Cambios en la Situación Financiera",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"assets/files/D.2.4.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1er trimestre<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"assets/files/D.2.4%20(1).pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2do Trimestre</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"assets/files/D.2.4.%20Remite%20a%20la%20SHCP%20INF%20ART%2085%20de%20la%20LFPRH.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3er Trimestre</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"assets/files/D.2.4.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1er trimestre<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"assets/files/D.2.4%20(1).pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2do Trimestre</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"assets/files/D.2.4%20Estado%20de%20cambios%20en%20la%20situacio%CC%81n%20financiera05112018.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3er Trimestre</a>",
           "alias": "purity/components",
           "_tags": [
             "Tema"
