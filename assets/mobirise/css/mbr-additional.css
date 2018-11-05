@@ -225,6 +225,7 @@
 
 
 
+
 #menu-19 .navbar-toggler {
   color: #000000;
 }
@@ -235,20 +236,28 @@
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;
 }
-#msg-box2-1c H2 {
-  text-align: left;
-  font-size: 12px;
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box2-1c .btn {
-  font-size: 10px;
-}
 #msg-box2-1h H2 {
   text-align: left;
   font-size: 12px;
   font-family: 'Montserrat', sans-serif;
 }
 #msg-box2-1h .btn {
+  font-size: 10px;
+}
+#msg-box2-1c H2 {
+  text-align: left;
+  font-size: 12px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box2-1c .btn {
+  font-size: 9px;
+}
+#msg-box2-22 H2 {
+  text-align: left;
+  font-size: 12px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box2-22 .btn {
   font-size: 10px;
 }
 #msg-box2-1i H2 {
